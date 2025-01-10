@@ -9,7 +9,6 @@ echo name = ${name}
 #DATE=2025-01-10
 DATE=$(date +%F)
 echo Today date is ${DATE}
-
 ARTH=$((2-3*4/2))
 echo ARTH = $(ARTH)
 
