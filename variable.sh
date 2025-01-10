@@ -10,7 +10,7 @@ echo name = ${name}
 DATE=$(date +%F)
 echo Today date is ${DATE}
 
-ARH =$((2=-3*4/2))
+ARTH =$((2-3*4/2))
 
-echo ARH = $(ARTH)
+echo ARTH = $(ARTH)
 
