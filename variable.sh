@@ -3,4 +3,4 @@ name=devops
 
 # print variable
 echo a = $a
-echo name = $(name)
+echo name = ${name}
