@@ -12,5 +12,5 @@ echo Today date is ${DATE}
 
 ARTH=$((2-3*4/2))
 
-echo ARTH = $(ARTH)
+echo ARTH = ${ARTH}
 
