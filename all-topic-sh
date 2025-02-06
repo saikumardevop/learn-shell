@@ -15,9 +15,48 @@
 ## echo.sh is already having those
 
 # we can print multiple lines in wcho command
-# echo -e "Line1\Line2\nLine3"
+# echo -e "Line1\Line2\n\nLine3"
+
+# we can print a tab space between words
+echo -e "world1\t\tworld2
 
 #3. Variables
+
+# Declare a variable
+a=10
+
+# Acess a variable , using echo command to print data in a variable
+echo a - $a
+
+# command substution
+DATE=$(date)
+echo Date - $DATE
+
+#Arithmetic substituion
+Add=$((2+3))
+echo Add of 2+3 -$ADD
+
+# Properties of a variable
+
+# Red write
+b=10
+b=20
+
+## b was declared with 10 value and again b was declared with 20 value
+echo b -$b
+
+# we will se 20, because the property read-write will allow to overwrite the value 10 in b with 20
+
+# Some times in case if we need to mark  a variable as readonly after declaring then a readonly command will help
+readonly b
+b=30
+
+# local variable
+# variable declared in this script can be acess within that script because the default property is local
+# Variable declared in cli in shell cannot be accessed in script
+
+echo c - $c
+
 #4. Inputs
 #5. Conditions
 #6. Loop
