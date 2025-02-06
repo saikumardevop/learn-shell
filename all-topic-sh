@@ -17,7 +17,7 @@
 # we can print multiple lines in wcho command
 # echo -e "Line1\Line2\nLine3"
 
-#3. variables
+#3. Variables
 #4. Inputs
 #5. Conditions
 #6. Loop
