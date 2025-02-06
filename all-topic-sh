@@ -1,0 +1,27 @@
+# comment - any line starting with # is a comment and shell will ignore those lines
+
+#1.How to write shell scripts file
+
+# File ending with .sh is what we prefer to make a shell script so we understand that is a shell script .But for os if does not matters
+
+# How to run a shell script
+# bash script.sh
+
+#2. Printing
+
+# echo word
+# word will be printed on screen by echo command
+# echo we can print colours
+## echo.sh is already having those
+
+# we can print multiple lines in wcho command
+# echo -e "Line1\Line2\nLine3"
+
+#3. variables
+#4. Inputs
+#5. Conditions
+#6. Loop
+#7. Functions
+#8. Exit Status
+#9. Quotes
+#10. Sed Editors
