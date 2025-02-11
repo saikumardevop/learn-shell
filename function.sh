@@ -7,7 +7,7 @@ function_name() {
 
 }
 # call function
-function-name
+function_name
 
 ## we can send inputs to the function and we can access then with special variables $1-$n/ $*, $#
 
