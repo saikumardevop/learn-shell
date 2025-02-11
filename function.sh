@@ -1,6 +1,6 @@
-A name given to set of commandsis called as function
+# A name given to set of commandsis called as function
 
-Declare a function
+# Declare a function
 
 function_name() {
       eco Hello World
@@ -23,7 +23,7 @@ a=123
 function_name1 123 xyz
 
 # function will have its own exit status ,but not with exit command we have to use return command with exit status.
-function_name213() {
+function_name2() {
   echo Hello
    return 1
    # 1 is a exit status and it ranges from 0.253
