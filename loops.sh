@@ -8,7 +8,7 @@ done
 
 # If expression is true than loop allows inside
 
-  for fruit in apple banana orange ; do
+for fruit in apple banana orange ; do
     echo Fruit Name  - $fruit
     sleep 1
   done
