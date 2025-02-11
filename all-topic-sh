@@ -18,7 +18,7 @@
 # echo -e "Line1\Line2\n\nLine3"
 
 # we can print a tab space between words
-echo -e "world1\t\tworld2
+echo -e "world1\t\tworld2"
 
 #3. Variables
 
@@ -119,4 +119,3 @@ Exit command ranges from 0.255
   # error - 2>
     # OUTPUT + ERROR - &>
   # Append - >>
-
