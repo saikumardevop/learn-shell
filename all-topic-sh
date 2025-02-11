@@ -102,7 +102,7 @@ echo c - $c
   # Function has its own exit status ranges 0-255 same like exit command.
 
 #8. Exit Status
-  # Exit command ranges from 0.255
+  # Exit command ranges from 0-255
 
 #9. Quotes
     # why quotes ?

@@ -26,7 +26,7 @@ function_name1 123 xyz
 function_name2() {
   echo Hello
    return 1
-   # 1 is a exit status and it ranges from 0.253
+   # 1 is a exit status and it ranges from 0-253
 }
 
 function_name2
