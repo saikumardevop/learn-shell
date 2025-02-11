@@ -1,14 +1,14 @@
 a=10
 
 while [ &a - gt 0 ]; do
-  echo a - $a -greater than 0
+  echo a - $a - greater than 0
   a=$ (($a-1))
   sleep 1
-  done
+done
 
-  If expression is true than loop allows inside
+# If expression is true than loop allows inside
 
   for fruit in apple banana orange ; do
-    echo Fruit Name  - $ fruit
+    echo Fruit Name  - $fruit
     sleep 1
-    done
+  done
