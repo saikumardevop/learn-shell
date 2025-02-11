@@ -3,7 +3,7 @@
 # Declare a function
 
 function_name() {
-      eco Hello World
+      echo Hello World
 
 }
 # call function
