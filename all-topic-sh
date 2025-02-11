@@ -57,17 +57,17 @@ b=30
 
 echo c - $c
 
-# export c -This will mark the variable as environment variable so all the scripts /commands that executed on terminal can access this script
-#           If we declare environment variable inside scripts ,all the scripts /commands that executs inside this scripts can access that variables
+# export c - This will mark the variable as environment variable so all the scripts /commands that executed on terminal can access this script
+#          - If we declare environment variable inside scripts ,all the scripts /commands that executs inside this scripts can access that variables
 
 #4. Inputs
 
 # Special variables
-# $0 - script name
-# $0 - First Argument
-# $0 - Second Argument
-# $0 - All Argument
-# $0 - No of Argument
+ # $0 - script name
+ # $0 - First Argument
+ # $0 - Second Argument
+ # $0 - All Argument
+ # $0 - No of Argument
 
  # Scripts has its own inputs, function also have their own inputs
 
